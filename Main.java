@@ -1,6 +1,8 @@
 
 // task from here https://stepik.org/lesson/98411/step/7?auth=login&thread=solutions&unit=
-// video to set the junit https://www.youtube.com/watch?v=936wHLIR4UY
+// video to set the junit in vscode https://www.youtube.com/watch?v=936wHLIR4UY
+// another video to set the junit in idea https://www.youtube.com/watch?v=uC6FFV8HbSw
+
 import java.util.Arrays;
 import java.util.TreeSet;
 
@@ -28,5 +30,4 @@ public class Main {
         res.deleteCharAt(res.length() - 1);
         return res.toString();
     }
-
 }
